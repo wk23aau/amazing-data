@@ -10805,9 +10805,9 @@
   "currentIndex": 0,
   "progress": {
     "total": 10800,
-    "completed": 0,
+    "completed": 1,
     "currentAsin": "B0DLBSGKWV",
-    "step": "initializing",
+    "step": "done",
     "paginationPosition": 0,
     "batchTotal": 500,
     "batchCompleted": 0
