@@ -10805,9 +10805,9 @@
   "currentIndex": 27,
   "progress": {
     "total": 10800,
-    "completed": 0,
+    "completed": 1,
     "currentAsin": "B0BDRJ91SH",
-    "step": "fetching",
+    "step": "done",
     "paginationPosition": 400
   }
 }
