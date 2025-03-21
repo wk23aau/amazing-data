@@ -10802,12 +10802,12 @@
     "B0BXCPZ49G",
     "B07798R425"
   ],
-  "currentIndex": 27,
+  "currentIndex": 54,
   "progress": {
     "total": 10800,
     "completed": 1,
-    "currentAsin": "B0BDRJ91SH",
-    "step": "done",
+    "currentAsin": "B07798R425",
+    "step": "fetching",
     "paginationPosition": 400
   }
 }
