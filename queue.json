@@ -10805,9 +10805,9 @@
   "currentIndex": 54,
   "progress": {
     "total": 10800,
-    "completed": 1,
+    "completed": 2,
     "currentAsin": "B07798R425",
-    "step": "fetching",
+    "step": "done",
     "paginationPosition": 400
   }
 }
