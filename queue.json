@@ -1,5 +1,5 @@
 {
-  "scrapeState": "running",
+  "scrapeState": "idle",
   "asinQueue": [
     "B0DLBSGKWV",
     "B09XHQ7Y6F",
@@ -10802,12 +10802,12 @@
     "B0BXCPZ49G",
     "B07798R425"
   ],
-  "currentIndex": 108,
+  "currentIndex": 0,
   "progress": {
     "total": 10800,
-    "completed": 4,
-    "currentAsin": "B08D8TQRFP",
-    "step": "done",
-    "paginationPosition": 400
+    "completed": 0,
+    "currentAsin": "B0DLBSGKWV",
+    "step": "idle",
+    "paginationPosition": 1
   }
 }
