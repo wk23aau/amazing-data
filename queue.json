@@ -1,0 +1,40 @@
+{
+  "scrapeState": "running",
+  "asinQueue": [
+    "B0DLBSGKWV",
+    "B09XHQ7Y6F",
+    "B0DPGLD9ZZ",
+    "B09L8GWC5J",
+    "B0C24GL3L3",
+    "B0DLBV2QCH",
+    "B0BXCPZ49G",
+    "B0DCFKVSXG",
+    "B0DNHNLQW4",
+    "B0CPKXT6S9",
+    "B0DLCF4TFG",
+    "B012AUCJ8I",
+    "B09X5RHK2K",
+    "B0D426ZYPP",
+    "B0D1R5J4GM",
+    "B01E97I7UO",
+    "B0DPQD3LZR",
+    "B0BZGPTLPG",
+    "B0DQD6MQRJ",
+    "B0DFWPX1P8",
+    "B0DQD9DPTJ",
+    "B0DPGZ73ZS",
+    "B0DDSK66TK",
+    "B099KMPRTJ",
+    "B0CG6N11DQ",
+    "B00SZ35W0W",
+    "B0BDRJ91SH"
+  ],
+  "currentIndex": 0,
+  "progress": {
+    "total": 27,
+    "completed": 0,
+    "currentAsin": "B0DLBSGKWV",
+    "step": "initializing",
+    "paginationPosition": 1
+  }
+}
