@@ -10804,13 +10804,13 @@
   ],
   "currentIndex": 0,
   "progress": {
-    "total": 0,
+    "total": 10800,
     "completed": 0,
-    "currentAsin": null,
-    "step": null,
+    "currentAsin": "B0DLBSGKWV",
+    "step": "initializing",
     "paginationPosition": 0,
-    "batchTotal": 0,
+    "batchTotal": 500,
     "batchCompleted": 0
   },
-  "currentBatchSize": 0
+  "currentBatchSize": 500
 }
